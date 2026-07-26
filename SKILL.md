@@ -78,6 +78,7 @@ description: 半导体器件工艺图绘制规范。当用户要求绘制半导�
 ## 按需附录
 
 - 附录 A：CMOS 模板与片段库——**已内联在下方**。
+- 附录 S：SVG 图元积木库（17+ 个参数化积木，拼剖面优先用积木）——画任何剖面前先读取：https://raw.githubusercontent.com/jinliang094-ctrl/device-fab-diagram/main/snippets.md
 - 附录 B：MEMS 图元库——画 MEMS 前必须先读取：https://raw.githubusercontent.com/jinliang094-ctrl/device-fab-diagram/main/mems.md
 - 附录 C：工艺流程框图规范——画框图前必须先读取：https://raw.githubusercontent.com/jinliang094-ctrl/device-fab-diagram/main/flowchart.md
 
